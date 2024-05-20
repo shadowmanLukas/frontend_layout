@@ -811,7 +811,7 @@ transform: rotate(0);
 
 
 /* Showcase Block */
-.block-showcase__picture > img {
+.block-showcase__image> img {
     width: 100%;
 }
 
@@ -820,12 +820,12 @@ transform: rotate(0);
         grid-template-columns: 50% 50%;
     }
     
-    .block-showcase__picture {
+    .block-image {
         
         justify-self: end;
     }
 
-    .block-showcase__picture > img {
+    .block-image > img {
         width: auto;
         max-width: 700px;
     }
