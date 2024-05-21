@@ -1,4 +1,8 @@
 
+
+/* Import css file */
+@import './normalize.css';
+
 /*Definition of global variables*/
 :root {
 --color-primary: #2584ff;
